@@ -19,4 +19,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student at Nanjing University.
+I am a first-year Ph.D. student at the *School of Journalism and Communication*, Nanjing University, under the supervision of Professor [Cheng-Jun Wang](https://chengjunwang.com/). I am also a member of the [Computational Communication Collaboratory](https://computational-communication.com/), Nanjing University. I completed my undergraduate studies at South China University of Technology, majoring in Software Engineering. My master's degree was pursued at the China Foreign Affairs University, majoring in Political Science. My research interests include Computational Communication, Political Communication, and Computational Narratives.

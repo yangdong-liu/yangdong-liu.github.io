@@ -2,9 +2,9 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Data and Research Projects.
 nav: true
-nav_order: 1
+nav_order: 2
 
 horizontal: false
 ---
