@@ -1,12 +1,12 @@
 ---
 layout: post
-title: I participat in the Big Data and Causal Inference Seminar hosted by LCG-THU.
+title: I participate in the Big Data and Causal Inference Seminar hosted by LCG-THU.
 date: 2023-10-25 12:00:00-0400
 inline: false
 related_posts: false
 ---
 
-I participat in the Big Data and Causal Inference Seminar hosted by Laboratory ofComputational Social Science and State Governance, Tsinghua University.
+I participate in the Big Data and Causal Inference Seminar hosted by Laboratory ofComputational Social Science and State Governance, Tsinghua University.
 
 ***
 

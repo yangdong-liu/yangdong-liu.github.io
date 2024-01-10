@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I become a PhD student at the School of Journalism and Communication, Nanjing University. 🎓
+I become a Ph.D. student at the School of Journalism and Communication, Nanjing University. 🎓
