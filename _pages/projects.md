@@ -4,9 +4,9 @@ title: projects
 permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
-nav_order: 2
+nav_order: 1
 
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
