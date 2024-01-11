@@ -3,6 +3,14 @@ layout: about_cn
 permalink: /cn/
 title: 中文
 description: Materials for courses you taught. Replace this text with your description.
+
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <p></p>
+
 nav: true
 nav_order: 8
 ---
