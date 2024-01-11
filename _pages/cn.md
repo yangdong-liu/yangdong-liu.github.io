@@ -1,19 +1,10 @@
 ---
-layout: about_cn
-permalink: /
+layout: page
+permalink: /cn/
 title: 中文
+description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 8
-
-permalink: /
-subtitle:
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p></p>
 ---
 
 For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
