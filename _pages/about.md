@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: ケイコ目を澄ませて
+subtitle:
 
 profile:
   align: right
