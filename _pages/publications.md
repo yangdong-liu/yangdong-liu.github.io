@@ -19,7 +19,9 @@ nav_order: 1
 1. Zhang Y., Wang Y., Yan L., **Liu Y**. (2024) Unraveling the NFT Narrative Labyrinth: Persuasive Effects of Interactive Engagement and Structure on Transaction Attention. ICA 2024, Gold Coast, Australia.
 
 
+
 ### Working Papers
+
 
 1. **Yangdong Liu**, Zhenfeng Zhou, Yaotian Zhang, Cheng-Jun Wang* (2023) Framing Hostility: The Morality, Emotion, and Narrative Structure in Chinese New Era Mediated Public Diplomacy. In Writing.
 
