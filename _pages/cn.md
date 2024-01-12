@@ -18,8 +18,6 @@ nav_order: 8
 
 我的研究兴趣包括计算沟通、政治沟通和计算叙事。具体来说，我的研究重点是作为非制度化因素的叙事和修辞如何塑造政治行为者的行为偏好。
 
-
-
 ### **会议论文**
 
 1. Zhang Y., Wang Y., Yan L., **Liu Y**. (2024) Unraveling the NFT Narrative Labyrinth: Persuasive Effects of Interactive Engagement and Structure on Transaction Attention. ICA 2024, Gold Coast, Australia.
