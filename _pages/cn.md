@@ -26,13 +26,13 @@ nav_order: 8
 1. Zhang Y., Wang Y., Yan L., **Liu Y**. (2024) Unraveling the NFT Narrative Labyrinth: Persuasive Effects of Interactive Engagement and Structure on Transaction Attention. ICA 2024, Gold Coast, Australia.
 
 
-### 工作论文
+### **工作论文**
 
 1. **Yangdong Liu**, Zhenfeng Zhou, Yaotian Zhang, Cheng-Jun Wang* (2023) Framing Hostility: The Morality, Emotion, and Narrative Structure in Chinese New Era Mediated Public Diplomacy. In Writing.
 
 2. **Yangdong Liu**, Cheng-Jun Wang* (2024) Causal Narrative and Political Persuade. Working in Progress.
 
 
-### 数据集
+### **数据集**
 
 1. **Yangdong Liu**, Zhenfeng Zhou, Xiaokai Yan, Cheng-Jun Wang* (2024) PoliCS: Policy Causal Story Corpus. Working in Progress.
