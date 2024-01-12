@@ -1,0 +1,1 @@
+1. Zhang Y., Wang Y., Yan L., **Liu Y**. (2024) Unraveling the NFT Narrative Labyrinth: Persuasive Effects of Interactive Engagement and Structure on Transaction Attention. ICA 2024, Gold Coast, Australia.

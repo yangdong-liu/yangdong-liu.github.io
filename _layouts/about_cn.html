@@ -41,18 +41,20 @@ layout: default
       {{ content }}
     </div>
 
+
+
+    <!-- Conference Papers -->
+    <h2>会议论文</h2>
+    {%- include conference_paper.md %}
+
+
+    <!-- Working Papers -->
+    <h2>工作论文</h2>
+    {%- include conference_paper.html %}
+
+
     
   </article>
 
-  {%- if page.related_publications != null and page.related_publications.size > 0 -%}
-  {% assign publications = page.related_publications | replace: ", ", "," | split: "," | join: "|" %}
-  <h2>References</h2>
-  <div class="publications">
-    {% bibliography -f {{ site.scholar.bibliography }} -q @*[key^={{ publications }}]* %}
-  </div>
-  {%- endif %}
 
-  {%- if site.giscus and page.giscus_comments -%}
-    {% include giscus.html %}
-  {%- endif -%}
 </div>
