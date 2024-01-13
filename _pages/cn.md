@@ -22,13 +22,12 @@ nav_order: 8
 <br><br>
 <br><br>
 <br><br>
-<br><br>
+
 
 ### **会议论文**
 
 1. Zhang Y., Wang Y., Yan L., **Liu Y**. (2024) Unraveling the NFT Narrative Labyrinth: Persuasive Effects of Interactive Engagement and Structure on Transaction Attention. ICA 2024, Gold Coast, Australia.
 
-<br><br>
 <br><br>
 
 ### **工作论文**
@@ -37,7 +36,6 @@ nav_order: 8
 
 2. **Yangdong Liu**, Cheng-Jun Wang* (2024) Causal Narrative and Political Persuade. Working in Progress.
 
-<br><br>
 <br><br>
 
 ### **数据集**
