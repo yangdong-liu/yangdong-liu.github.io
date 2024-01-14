@@ -13,19 +13,19 @@ nav_order: 4
 
 - Email: liuyangdong28@gmail.com
 - Address: 163 XIANLIN ROAD, QIXIA DISTRICT, NANJING, JIANGSU PROVINCE, 210023
-- Personal Website: [[Personal Website URL]](https://yangdong-liu.github.io/)
+- Personal Website: https://yangdong-liu.github.io/
 
 #### Education
-#### Nanjing University, Ph.D. student in Communication
+##### Nanjing University, Ph.D. student in Communication
 - **Date:** from 9, 2023
 - **Advisor:** Prof. Cheng-Jun Wang
 
-#### China Foreign Affairs University, Master of Political Science
+##### China Foreign Affairs University, Master of Political Science
 - **Graduation Date:** 6, 2023
 - **Thesis Title:** Agency Problem and the Formation of the Modern State: A Weberian Perspective
 - **Advisor:** Prof. Zhan Shi
 
-#### South China University of Technology, Bachelor of Software Engineering
+##### South China University of Technology, Bachelor of Software Engineering
 - **Graduation Date:** 6, 2020
 - **Advisor:** Prof. Lei Yang
 
