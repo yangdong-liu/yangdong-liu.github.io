@@ -7,79 +7,36 @@ nav: true
 nav_order: 4
 ---
 
-# [Yangdong Liu]
+# **Yangdong** Liu
 
 ## Contact Information
-- Phone: [Your Phone Number]
-- Email: [Your Email Address]
-- Address: [Your Address]
-- LinkedIn: [LinkedIn Profile URL]
-- Personal Website: [Personal Website URL]
 
-## Personal Statement or Objective
-[A brief section summarizing your academic interests, career goals, and important achievements. Tailor this to the position or program you're applying for.]
+- Email: liuyangdong28@gmail.com
+- Address: 163 XIANLIN ROAD, QIXIA DISTRICT, NANJING, JIANGSU PROVINCE, 210023
+- Personal Website: [[Personal Website URL]](https://yangdong-liu.github.io/)
 
 ## Education
-### [University Name], [Degree] in [Your Major]
-- **Graduation Date:** [Month, Year]
-- **Dissertation Title:** [Title of Your Dissertation]
-- **Advisor:** [Advisor's Name]
-- **Honors:** [Any honors received]
+### Nanjing University, Ph.D. student in Communication
+- **Date:** from 9, 2023
+- **Advisor:** Prof. Cheng-Jun Wang
 
-### [Previous University Name], [Previous Degree]
-- **Graduation Date:** [Month, Year]
-- **Thesis Title:** [Title of Your Thesis]
-- **Advisor:** [Advisor's Name]
+### China Foreign Affairs University, Master of Political Science
+- **Graduation Date:** 6, 2023
+- **Thesis Title:** Agency Problem and the Formation of the Modern State: A Weberian Perspective
+- **Advisor:** Prof. Zhan Shi
 
-## Academic Appointments
-### [Your Position], [Department], [University Name]
-- **Duration:** [Month, Year] – Present
-- **Responsibilities:** [Briefly describe your responsibilities and duties]
-
-### [Previous Position], [Department], [University Name]
-- **Duration:** [Month, Year] – [Month, Year]
-- **Responsibilities:** [Brief description]
-
-## Publications
-1. [Citation in APA, MLA, or your field's preferred style for each publication]
-2. [Another citation]
-3. [And another]
+### South China University of Technology, Bachelor of Software Engineering
+- **Graduation Date:** 6, 2020
+- **Advisor:** Prof. Lei Yang
 
 ## Conference Presentations
-1. [Title of Presentation], [Conference Name], [Date]
-2. [Another Presentation Title], [Another Conference Name], [Date]
+1. Zhang Y., Wang Y., Yan L., **Liu Y**. (2024) Unraveling the NFT Narrative Labyrinth: Persuasive Effects of Interactive Engagement and Structure on Transaction Attention. ICA 2024, Gold Coast, Australia.
 
-## Teaching Experience
-### [Course Taught], [University Name]
-- **Semester:** [Season, Year]
-- **Course Level:** [Undergraduate/Graduate]
-- **Responsibilities:** [Briefly describe what you did, e.g., developed syllabus, lectured, created assignments]
-
-### [Another Course], [University Name]
-- **Semester:** [Season, Year]
-- **Course Level:** [Undergraduate/Graduate]
-- **Responsibilities:** [Description]
-
-## Grants and Awards
-- [Name of Grant/Award], [Awarding Organization], [Year]
-- [Another Grant/Award], [Year]
-
-## Professional Service
-- [Description of any editorial work, committee roles, or other service work in your field]
+## Working Papers
+1. **Yangdong Liu**, Zhenfeng Zhou, Yaotian Zhang, Cheng-Jun Wang* (2023) Framing Hostility: The Morality, Emotion, and Narrative Structure in Chinese New Era Mediated Public Diplomacy. In Writing.
+2. **Yangdong Liu**, Cheng-Jun Wang* (2024) Causal Narrative and Political Persuade. Working in Progress.
 
 ## Skills and Qualifications
-- Languages: [Language Skills]
-- Technical Skills: [Software, Programming Languages, etc.]
-- Laboratory Skills: [If applicable]
-
-## References
-### [Reference Name]
-- **Position:** [Their Position]
-- **Affiliation:** [Their Institution]
-- **Contact Information:** [Their Contact Information]
-
-### [Another Reference Name]
-- **Position:** [Their Position]
-- **Affiliation:** [Their Institution]
-- **Contact Information:** [Their Contact Information]
+- Languages: Mandarin: Native; English: Fluent
+- Technical Skills: Python, R, LATEX, C/C++
 
