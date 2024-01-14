@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /publications/
-title: research # origin name: publications
-description: All my publications, conference papers and working papers.
+permalink: /cv/
+title: cv # origin name: publications
+description:
 nav: true
 nav_order: 4
 ---
