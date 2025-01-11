@@ -24,14 +24,12 @@ nav_order: 8
 <br><br>
 
 
-### **会议论文**
-
-1. **Yangdong Liu**, Zhenfeng Zhou, Yaotian Zhang, Cheng-Jun Wang, Speak of Evil: the Moral Foundation of Hostile Narrative in Chinese Public Diplomacy. IAMCR 2024, Christchurch, New Zealand.
-2. Zhang Y., Wang Y., Yan L., **Liu Y**. (2024) Unraveling the NFT Narrative Labyrinth: Persuasive Effects of Interactive Engagement and Structure on Transaction Attention. ICA 2024, Gold Coast, Australia.
-
-
-
 ### **工作论文**
 
-1. **Yangdong Liu**, Cheng-Jun Wang* (2024) Mapping Causal Narrative in Political Descourse Using LLM. Working in Progress.
-2. **Yangdong Liu**, Cheng-Jun Wang* (2024) Building a Dock Rather Than Borrowing a Boat: China's Open-Source News Platform for International Propaganda. Woking in Progress.
+1. **Liu, Y.**, Zhou, Z., Zhang, Y., Wang, C. J.* Unpacking the Black Box of Hostility: Threat Perception, Moral Judgement, and Aggressive Rhetoric in China’s Diplomatic Press Conferences
+2. **Liu, Y.**, Huang, J., Wang, C. J.* Mapping Causal Narratives in Political Discourse Using LLM
+
+### **会议论文**
+
+1. **Liu, Y.**, Zhou, Z., Zhang, Y., Wang, C. J.* (2024) Speak of Evil: The Moral Foundations of Hostile Narrative in Chinese Public Diplomacy. Paper to be presented at the 2024 International Association for Media and Communication Research (IAMCR), Christchurch, New Zealand
+2.	Zhang, Y., Wang, Y., Yan, L., & **Liu, Y.** (2024). Unraveling the NFT Narrative Labyrinth: Persuasive Effects of Interactive Engagement and Structure on Transaction Attention. Paper to be presented at the 74th Annual International Communication Association Conference (ICA), Gold Coast, Australia.
