@@ -47,11 +47,12 @@ layout: default
             {%- include news.html limit=true %}
           {%- endif %}
 
-          <!-- Latest posts -->
+          <!-- 暂时隐藏最新博文部分
           {% if page.latest_posts -%}
             <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">latest posts</a></h2>
             {%- include latest_posts.html %}
           {%- endif %}
+          -->
 
           <!-- Selected papers -->
           {% if page.selected_papers -%}
