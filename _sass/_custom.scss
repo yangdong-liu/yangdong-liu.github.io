@@ -1,0 +1,23 @@
+// 定义字体变量
+:root {
+    --global-font-family: "Source Sans Pro", "San Francisco", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    --global-heading-family: "Source Serif Pro", Georgia, Times, serif;
+    --global-mono-family: "Source Code Pro", Consolas, Monaco, monospace;
+  }
+  
+  // 应用字体
+  body {
+    font-family: var(--global-font-family);
+    font-size: 16px;
+    line-height: 1.65;
+    -webkit-font-smoothing: antialiased;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--global-heading-family);
+    font-weight: 600;
+  }
+  
+  code, pre {
+    font-family: var(--global-mono-family);
+  }
