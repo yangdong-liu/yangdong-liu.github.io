@@ -26,12 +26,12 @@ nav_order: 8
 
 ### **工作论文**
 
-[1]. **Liu, Y.**, Zhou, Z., Zhang, Y., Wang, C. J.* Unpacking the Black Box of Hostility: Threat Perception, Moral Judgement, and Aggressive Rhetoric in China’s Diplomatic Press Conferences
-[2]. **Liu, Y.**, Huang, J., Wang, C. J.* Mapping Causal Narratives in Political Discourse Using LLM
+1. **Liu, Y.**, Zhou, Z., Zhang, Y., Wang, C. J.* Unpacking the Black Box of Hostility: Threat Perception, Moral Judgement, and Aggressive Rhetoric in China’s Diplomatic Press Conferences
+2. **Liu, Y.**, Huang, J., Wang, C. J.* Mapping Causal Narratives in Political Discourse Using LLM
 
 ### **会议论文**
 
 
-[1]	**Liu, Y.**, Wang, C.J.* (2025). Mapping Causal Narratives Using LLMs in Political Discourse. Paper to be presented at the 75th Annual International Communication Association Conference (ICA), Denver, Colorado, USA.
-[2]	**Liu, Y.**, Zhou, Z., Zhang, Y., Wang, C. J.* (2025). Unpacking the Black Box of Hostility: Threat Perception, Moral Judgement, and Aggressive Rhetoric in China’s Diplomatic Press Conferences. Paper to be presented at the 75th Annual International Communication Association Conference (ICA), Denver, Colorado, USA.
-[3].	Zhang, Y., Wang, Y., Yan, L., & **Liu, Y.** (2024). Unraveling the NFT Narrative Labyrinth: Persuasive Effects of Interactive Engagement and Structure on Transaction Attention. Paper to be presented at the 74th Annual International Communication Association Conference (ICA), Gold Coast, Australia.
+1. **Liu, Y.**, Wang, C.J.* (2025). Mapping Causal Narratives Using LLMs in Political Discourse. Paper to be presented at the 75th Annual International Communication Association Conference (ICA), Denver, Colorado, USA.
+2. **Liu, Y.**, Zhou, Z., Zhang, Y., Wang, C. J.* (2025). Unpacking the Black Box of Hostility: Threat Perception, Moral Judgement, and Aggressive Rhetoric in China’s Diplomatic Press Conferences. Paper to be presented at the 75th Annual International Communication Association Conference (ICA), Denver, Colorado, USA.
+3. Zhang, Y., Wang, Y., Yan, L., & **Liu, Y.** (2024). Unraveling the NFT Narrative Labyrinth: Persuasive Effects of Interactive Engagement and Structure on Transaction Attention. Paper to be presented at the 74th Annual International Communication Association Conference (ICA), Gold Coast, Australia.
