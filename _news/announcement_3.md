@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper "Speak of Evil: the Moral Foundation of Hostile Narrative in Chinese Public Diplomacy" has been accepted by IAMCR 2024. 🎉
+My paper is accepted by IAMCR 2024. 🎉
