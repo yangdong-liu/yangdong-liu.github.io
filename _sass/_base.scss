@@ -3,6 +3,11 @@
  ******************************************************************************/
 
 // Typography
+:root {
+  --global-font-family: "Source Sans Pro", "Source Han Sans SC", "Source Han Sans CN", "思源黑体", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --global-heading-family: "Source Serif Pro", "Source Han Serif SC", "Source Han Serif CN", "思源宋体", Georgia, Times, "Times New Roman", serif;
+  --global-mono-family: "Source Code Pro", SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+}
 
 p,
 h1,
