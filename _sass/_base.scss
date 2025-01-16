@@ -1063,3 +1063,15 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+
+body {
+  font-family: var(--global-font-family);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--global-heading-family);
+}
+
+code, pre {
+  font-family: var(--global-mono-family);
+}
