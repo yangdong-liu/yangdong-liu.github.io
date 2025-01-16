@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My two works are accepted by ICA2025, Denver, Colorado, USA. 🎉
-date: 2025-1-16 10:00:00-0400
+date: 2025-1-16 10:00:00+0800
 inline: false
 related_posts: false
 ---
