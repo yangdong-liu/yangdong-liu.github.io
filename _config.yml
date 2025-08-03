@@ -123,7 +123,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 blog_name: Narrative and Society # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 #blog_description: When you don't create things, you become defined by your tastes rather than ability. Your tastes only narrow and exclude people. So create. ---- _why
-blog_description: Passion, Craft, and Method
+blog_description: 叙事与社会
 
 permalink: /blog/:year/:title/
 
