@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Officially Launched Academic WeChat Public Account "Narrative and Society" 📚
-date: 2025-1-15 10:00:00+0800
+date: 2025-8-3 10:00:00+0800
 inline: false
 related_posts: false
 ---
