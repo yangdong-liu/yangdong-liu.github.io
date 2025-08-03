@@ -8,16 +8,15 @@ related_posts: false
 
 I am excited to announce the official launch of my academic WeChat public account "叙事与社会" (Narrative and Society), which will share research notes on discourse and narrative in social sciences.
 
-## Content Focus
+### Content Focus
 - 📖 Research notes on discourse and narrative in social sciences
-- 🔍 Analysis methods for narratives
-- 📊 Computational communication research sharing
+- 📊 Computational method
 - 🌐 Political communication
 
-## Synchronized Updates
+### Updates in Website
 All content will also be synchronized on my personal website's [blog page](https://yangdong-liu.github.io/blog/) for easy access and sharing.
 
-## How to Follow
+### How to Follow
 Welcome to scan the QR code below to follow the public account and join discussions on narrative and social science research!
 
 <div class="row">
