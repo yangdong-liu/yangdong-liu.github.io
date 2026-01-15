@@ -32,6 +32,7 @@ nav_order: 8
 ### **会议论文**
 
 
-1. **Liu, Y.**, Wang, C.J.* (2025). Mapping Causal Narratives Using LLMs in Political Discourse. Paper to be presented at the 75th Annual International Communication Association Conference (ICA), Denver, Colorado, USA.
-2. **Liu, Y.**, Zhou, Z., Zhang, Y., Wang, C. J.* (2025). Unpacking the Black Box of Hostility: Threat Perception, Moral Judgement, and Aggressive Rhetoric in China’s Diplomatic Press Conferences. Paper to be presented at the 75th Annual International Communication Association Conference (ICA), Denver, Colorado, USA.
-3. Zhang, Y., Wang, Y., Yan, L., & **Liu, Y.** (2024). Unraveling the NFT Narrative Labyrinth: Persuasive Effects of Interactive Engagement and Structure on Transaction Attention. Paper to be presented at the 74th Annual International Communication Association Conference (ICA), Gold Coast, Australia.
+1. **Liu, Y.**; Wang, C.J.*, (2026) Does Soft Propaganda Work: Theatre Reform Movement and Female Empowerment in China. Paper to be presented at the 76th Annual International Communication Association Conference (ICA), Cape Town, South Africa.
+2. **Liu, Y.**, Wang, C.J.* (2025). Mapping Causal Narratives Using LLMs in Political Discourse. Paper to be presented at the 75th Annual International Communication Association Conference (ICA), Denver, Colorado, USA.
+3. **Liu, Y.**, Zhou, Z., Zhang, Y., Wang, C. J.* (2025). Unpacking the Black Box of Hostility: Threat Perception, Moral Judgement, and Aggressive Rhetoric in China’s Diplomatic Press Conferences. Paper to be presented at the 75th Annual International Communication Association Conference (ICA), Denver, Colorado, USA.
+4. Zhang, Y., Wang, Y., Yan, L., & **Liu, Y.** (2024). Unraveling the NFT Narrative Labyrinth: Persuasive Effects of Interactive Engagement and Structure on Transaction Attention. Paper to be presented at the 74th Annual International Communication Association Conference (ICA), Gold Coast, Australia.
