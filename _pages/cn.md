@@ -28,7 +28,6 @@ nav_order: 8
 
 1. **Liu, Y.**, Zhou, Z., Zhang, Y., Wang, C. J.* Unpacking the Black Box of Hostility: Threat Perception, Moral Judgement, and Aggressive Rhetoric in China’s Diplomatic Press Conferences
 2. **Liu, Y.**, Huang, J., Wang, C. J.* Mapping Causal Narratives in Political Discourse Using LLMs
-3. **Liu, Y.**, Zhang, Y., Wang, C. J.* @Grok, Is This True? The Causal Effect of AI-Mediated Fact-Checking on Online Discussion Participation
 
 ### **会议论文**
 
