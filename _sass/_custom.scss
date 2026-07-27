@@ -420,3 +420,69 @@ html[data-theme="dark"] .news tbody tr:hover {
     transform: translateY(-2px);
   }
 }
+
+// -----------------------------------------------------------------------------
+// 深色模式切换按钮：图标旋转动画（.theme-spin 由 JS 添加）
+// -----------------------------------------------------------------------------
+
+#light-toggle i {
+  transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+#light-toggle.theme-spin i {
+  transform: rotate(360deg);
+}
+
+// -----------------------------------------------------------------------------
+// 博文排版（distill 布局）：衬线正文 + 学术阅读节奏
+// -----------------------------------------------------------------------------
+
+d-title h1 {
+  font-family: var(--global-heading-family) !important;
+  font-weight: 700 !important;
+  letter-spacing: -0.02em;
+}
+
+d-byline,
+d-contents nav {
+  font-family: var(--global-font-family) !important;
+}
+
+d-article {
+  font-family: "Source Serif 4", "Source Serif Pro", Georgia, "Noto Serif SC",
+    "Songti SC", serif !important;
+  font-size: 1.02rem;
+  line-height: 1.9;
+
+  p,
+  li {
+    text-align: justify;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--global-heading-family) !important;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    line-height: 1.35;
+  }
+
+  h2 {
+    margin-top: 2.5rem;
+  }
+
+  h3 {
+    margin-top: 2rem;
+  }
+
+  blockquote {
+    background-color: rgba(29, 78, 216, 0.04);
+    border-left: 3px solid var(--global-theme-color) !important;
+    border-radius: 0 8px 8px 0;
+    padding: 0.8em 1.2em;
+    font-size: 1rem;
+  }
+}
+
+html[data-theme="dark"] d-article blockquote {
+  background-color: rgba(110, 168, 254, 0.08);
+}

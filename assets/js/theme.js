@@ -1,15 +1,38 @@
 // Has to be in the head tag, otherwise a flicker effect will occur.
 
 let toggleTheme = (theme) => {
-  if (theme == "dark") {
-    setTheme("light");
+  const newTheme = theme == "dark" ? "light" : "dark";
+  const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+  // 切换按钮图标旋转动画
+  const btn = document.getElementById("light-toggle");
+  if (btn) {
+    btn.classList.remove("theme-spin");
+    void btn.offsetWidth; // 触发 reflow，使动画可重复播放
+    btn.classList.add("theme-spin");
+  }
+
+  // 支持 View Transitions API 时使用圆形扩散动画，否则回退到整体淡入淡出
+  if (document.startViewTransition && !reduceMotion) {
+    let x = window.innerWidth;
+    let y = 0;
+    if (btn) {
+      const rect = btn.getBoundingClientRect();
+      x = rect.left + rect.width / 2;
+      y = rect.top + rect.height / 2;
+    }
+    document.documentElement.style.setProperty("--theme-toggle-x", x + "px");
+    document.documentElement.style.setProperty("--theme-toggle-y", y + "px");
+    document.startViewTransition(() => setTheme(newTheme, false));
   } else {
-    setTheme("dark");
+    setTheme(newTheme);
   }
 };
 
-let setTheme = (theme) => {
-  transTheme();
+let setTheme = (theme, animate = true) => {
+  if (animate) {
+    transTheme();
+  }
   setHighlight(theme);
   setGiscusTheme(theme);
 

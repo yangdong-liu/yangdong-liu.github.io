@@ -37,6 +37,29 @@
     <!-- Dark Mode -->
     {% if site.enable_darkmode %}
     <link rel="stylesheet" href="{{ '/assets/css/jekyll-pygments-themes-native.css' | relative_url | bust_file_cache }}" media="none" id="highlight_theme_dark" />
+    <!-- 深色模式切换：从按钮位置圆形扩散（内联样式，避免被 purgecss 裁剪） -->
+    <style>
+      ::view-transition-old(root),
+      ::view-transition-new(root) {
+        animation: none;
+        mix-blend-mode: normal;
+      }
+      ::view-transition-old(root) {
+        z-index: 1;
+      }
+      ::view-transition-new(root) {
+        z-index: 2147483646;
+        animation: theme-circle-reveal 0.65s cubic-bezier(0.4, 0, 0.2, 1) both;
+      }
+      @keyframes theme-circle-reveal {
+        from {
+          clip-path: circle(0px at var(--theme-toggle-x, 100%) var(--theme-toggle-y, 0%));
+        }
+        to {
+          clip-path: circle(150% at var(--theme-toggle-x, 100%) var(--theme-toggle-y, 0%));
+        }
+      }
+    </style>
     <script src="{{ '/assets/js/theme.js' | relative_url | bust_file_cache }}"></script>
     <script src="{{ '/assets/js/dark_mode.js' | relative_url | bust_file_cache }}"></script>
     {% endif %}
