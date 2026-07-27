@@ -18,36 +18,78 @@ nav_order: 8
 
 我的研究聚焦于计算叙事与智能传播两个方向。一方面，我关注人们如何构建叙事，尤其是政治传播中的因果叙事，并通过计算方法分析这些叙事在制度化传播环境中的传播方式及其对社会与政治结果的影响。另一方面，我研究生成式人工智能在社交媒体中的介入如何重塑信息环境、用户参与模式以及公众在争议性议题中的讨论方式和社会后果。
 
-<br><br>
-<br><br>
-<br><br>
-<br><br>
+<div style="clear: both;"></div>
 
+<h2 class="paper-section">工作论文</h2>
 
-### **工作论文**
+<!-- 新增论文：在下面复制一个 paper-entry 块，填写标题和作者即可（序号自动生成） -->
+<div class="paper-list">
 
-[1]	**Liu, Y.**, Zhou, Z., Zhang, Y., Wang, C. J.*, Unpacking the Black Box of Hostility: Threat Perception, Moral Judgement, and Aggressive Rhetoric in China’s Diplomatic Press Conferences
+  <div class="paper-entry">
+    <div class="paper-title">Unpacking the Black Box of Hostility: Threat Perception, Moral Judgement, and Aggressive Rhetoric in China’s Diplomatic Press Conferences</div>
+    <div class="paper-authors"><strong>Liu, Y.</strong>, Zhou, Z., Zhang, Y., Wang, C. J.*</div>
+  </div>
 
-[2]	**Liu, Y.**, Huang, J., Wang, C. J.*, Mapping Causal Narratives in Political Discourse Using Large Language Models
+  <div class="paper-entry">
+    <div class="paper-title">Mapping Causal Narratives in Political Discourse Using Large Language Models</div>
+    <div class="paper-authors"><strong>Liu, Y.</strong>, Huang, J., Wang, C. J.*</div>
+  </div>
 
-[3]	**Liu, Y.**, Zhang, Y., Wang, C. J.*, @Grok, Is This True? The Causal Effect of AI-Mediated Fact-Checking on Online Discussion Participation
+  <div class="paper-entry">
+    <div class="paper-title">@Grok, Is This True? The Causal Effect of AI-Mediated Fact-Checking on Online Discussion Participation</div>
+    <div class="paper-authors"><strong>Liu, Y.</strong>, Zhang, Y., Wang, C. J.*</div>
+  </div>
 
-[4]	**Liu, Y.**, Huang, J., Wang, C. J.*, Bringing the Narrative Back In: A Systematic Review of the Conceptualizations and Operationalizations of Narrative in Narrative Persuasion Research (1996-2025)
+  <div class="paper-entry">
+    <div class="paper-title">Bringing the Narrative Back In: A Systematic Review of the Conceptualizations and Operationalizations of Narrative in Narrative Persuasion Research (1996-2025)</div>
+    <div class="paper-authors"><strong>Liu, Y.</strong>, Huang, J., Wang, C. J.*</div>
+  </div>
 
-[5]	**Liu, Y.**, Wang, C.J.*, Does Soft Propaganda Work: Theatre Reform Movement and Female Empowerment in China
+  <div class="paper-entry">
+    <div class="paper-title">Does Soft Propaganda Work: Theatre Reform Movement and Female Empowerment in China</div>
+    <div class="paper-authors"><strong>Liu, Y.</strong>, Wang, C.J.*</div>
+  </div>
 
+</div>
 
-### **会议论文**
+<h2 class="paper-section">会议论文</h2>
 
+<div class="paper-list">
 
-[1]	**Liu, Y.**, Wang, C.J.*, (2026) Does Soft Propaganda Work: Theatre Reform Movement and Female Empowerment in China. Paper to be presented at the 76th Annual International Communication Association Conference (ICA), Cape Town, South Africa.
+  <div class="paper-entry">
+    <div class="paper-title">Does Soft Propaganda Work: Theatre Reform Movement and Female Empowerment in China</div>
+    <div class="paper-authors"><strong>Liu, Y.</strong>, Wang, C.J.* (2026)</div>
+    <div class="paper-venue">Paper to be presented at the 76th Annual International Communication Association Conference (ICA), Cape Town, South Africa.</div>
+  </div>
 
-[2]	Zhou, Z., **Liu, Y.**, Xiao X., Wang, C.J.*, (2026) The Abolition of Slavery and the Rise of Racist Narratives in Southern U.S. Newspapers: A Re-Validation Based on a Historical Racism Lexicon (1800-1920). Paper to be presented at the 76th Annual International Communication Association Conference (ICA), Cape Town, South Africa.
+  <div class="paper-entry">
+    <div class="paper-title">The Abolition of Slavery and the Rise of Racist Narratives in Southern U.S. Newspapers: A Re-Validation Based on a Historical Racism Lexicon (1800-1920)</div>
+    <div class="paper-authors">Zhou, Z., <strong>Liu, Y.</strong>, Xiao X., Wang, C.J.* (2026)</div>
+    <div class="paper-venue">Paper to be presented at the 76th Annual International Communication Association Conference (ICA), Cape Town, South Africa.</div>
+  </div>
 
-[3]	Zhang, X., An, J., **Liu, Y.**, Wang, C.J.*, (2026) Great Powers as Evil or Savior? The Impact of War on Shenbao in Late Qing China (1880-1911). Paper to be presented at the 76th Annual International Communication Association Conference (ICA), Cape Town, South Africa.
+  <div class="paper-entry">
+    <div class="paper-title">Great Powers as Evil or Savior? The Impact of War on Shenbao in Late Qing China (1880-1911)</div>
+    <div class="paper-authors">Zhang, X., An, J., <strong>Liu, Y.</strong>, Wang, C.J.* (2026)</div>
+    <div class="paper-venue">Paper to be presented at the 76th Annual International Communication Association Conference (ICA), Cape Town, South Africa.</div>
+  </div>
 
-[4]	**Liu, Y.**, Wang, C.J.* (2025). Mapping Causal Narratives Using LLMs in Political Discourse. Paper to be presented at the 75th Annual International Communication Association Conference (ICA), Denver, Colorado, USA.
+  <div class="paper-entry">
+    <div class="paper-title">Mapping Causal Narratives Using LLMs in Political Discourse</div>
+    <div class="paper-authors"><strong>Liu, Y.</strong>, Wang, C.J.* (2025)</div>
+    <div class="paper-venue">Paper to be presented at the 75th Annual International Communication Association Conference (ICA), Denver, Colorado, USA.</div>
+  </div>
 
-[5]	**Liu, Y.**, Zhou, Z., Zhang, Y., Wang, C. J.* (2025). Unpacking the Black Box of Hostility: Threat Perception, Moral Judgement, and Aggressive Rhetoric in China’s Diplomatic Press Conferences. Paper to be presented at the 75th Annual International Communication Association Conference (ICA), Denver, Colorado, USA.
+  <div class="paper-entry">
+    <div class="paper-title">Unpacking the Black Box of Hostility: Threat Perception, Moral Judgement, and Aggressive Rhetoric in China’s Diplomatic Press Conferences</div>
+    <div class="paper-authors"><strong>Liu, Y.</strong>, Zhou, Z., Zhang, Y., Wang, C. J.* (2025)</div>
+    <div class="paper-venue">Paper to be presented at the 75th Annual International Communication Association Conference (ICA), Denver, Colorado, USA.</div>
+  </div>
 
-[6]	Zhang, Y., Wang, Y., Yan, L., & **Liu, Y.** (2024). Unraveling the NFT Narrative Labyrinth: Persuasive Effects of Interactive Engagement and Structure on Transaction Attention. Paper to be presented at the 74th Annual International Communication Association Conference (ICA), Gold Coast, Australia.
+  <div class="paper-entry">
+    <div class="paper-title">Unraveling the NFT Narrative Labyrinth: Persuasive Effects of Interactive Engagement and Structure on Transaction Attention</div>
+    <div class="paper-authors">Zhang, Y., Wang, Y., Yan, L., &amp; <strong>Liu, Y.</strong> (2024)</div>
+    <div class="paper-venue">Paper to be presented at the 74th Annual International Communication Association Conference (ICA), Gold Coast, Australia.</div>
+  </div>
+
+</div>
