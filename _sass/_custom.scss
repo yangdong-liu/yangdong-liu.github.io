@@ -259,3 +259,164 @@ h2.paper-section {
   color: var(--global-text-color-light);
   margin-top: 0.15rem;
 }
+
+// -----------------------------------------------------------------------------
+// 微交互增强（配合 assets/js/enhance.js，均为渐进增强，无 JS 时正常显示）
+// -----------------------------------------------------------------------------
+
+// 标题排版节奏
+.post-header .post-title {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.post h2 {
+  margin-top: 2.25rem;
+  font-size: 1.45rem;
+}
+
+// 导航栏：滚动后浮起（.navbar-scrolled 由 JS 添加）
+.navbar {
+  transition: box-shadow 0.25s ease, background-color 0.25s ease;
+}
+
+.navbar.navbar-scrolled {
+  box-shadow: 0 8px 24px -14px rgba(17, 24, 39, 0.25);
+}
+
+// 导航链接：下划线生长动画
+.navbar .navbar-nav .nav-item .nav-link {
+  position: relative;
+
+  &::after {
+    content: "";
+    position: absolute;
+    left: 0.5rem;
+    right: 0.5rem;
+    bottom: 0.15rem;
+    height: 2px;
+    border-radius: 2px;
+    background-color: var(--global-theme-color);
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.22s ease;
+  }
+
+  &:hover::after {
+    transform: scaleX(1);
+  }
+}
+
+.navbar .navbar-nav .nav-item.active > .nav-link::after {
+  transform: scaleX(1);
+}
+
+// 正文链接：下划线滑动动画（按钮、导航、新闻标题除外）
+.post article p a:not(.btn),
+.post article li a:not(.btn) {
+  text-decoration: none;
+  background-image: linear-gradient(currentColor, currentColor);
+  background-size: 0% 1px;
+  background-repeat: no-repeat;
+  background-position: 0 100%;
+  padding-bottom: 1px;
+  transition: background-size 0.25s ease, color 0.15s ease;
+
+  &:hover {
+    text-decoration: none;
+    background-size: 100% 1px;
+  }
+}
+
+// 论文条目：悬浮微交互
+.paper-entry {
+  transition: background-color 0.2s ease;
+
+  &::before {
+    transition: color 0.2s ease;
+  }
+
+  &:hover {
+    background-color: rgba(29, 78, 216, 0.03);
+
+    &::before {
+      color: var(--global-theme-color);
+    }
+  }
+}
+
+html[data-theme="dark"] .paper-entry:hover {
+  background-color: rgba(110, 168, 254, 0.06);
+}
+
+// News 行悬浮
+.news tr {
+  transition: background-color 0.15s ease;
+}
+
+.news tbody tr:hover {
+  background-color: rgba(29, 78, 216, 0.03);
+}
+
+html[data-theme="dark"] .news tbody tr:hover {
+  background-color: rgba(110, 168, 254, 0.06);
+}
+
+// 滚动显现动画（.io-reveal / .revealed 由 JS 添加，无 JS 时内容直接可见）
+.io-reveal {
+  opacity: 0;
+  transform: translateY(14px);
+  transition: opacity 0.55s ease, transform 0.55s ease;
+  will-change: opacity, transform;
+}
+
+.io-reveal.revealed {
+  opacity: 1;
+  transform: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .io-reveal {
+    opacity: 1 !important;
+    transform: none !important;
+    transition: none !important;
+  }
+}
+
+// 回到顶部按钮（元素由 JS 创建）
+.back-to-top {
+  position: fixed;
+  right: 1.5rem;
+  bottom: 3.5rem;
+  z-index: 1030;
+  width: 2.5rem;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 50%;
+  background-color: var(--global-card-bg-color);
+  color: var(--global-text-color-light);
+  font-size: 1rem;
+  line-height: 1;
+  cursor: pointer;
+  box-shadow: 0 6px 18px rgba(17, 24, 39, 0.12);
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(8px);
+  transition: opacity 0.25s ease, transform 0.25s ease, color 0.15s ease,
+    border-color 0.15s ease;
+
+  &.visible {
+    opacity: 1;
+    pointer-events: auto;
+    transform: none;
+  }
+
+  &:hover {
+    color: var(--global-theme-color);
+    border-color: var(--global-theme-color);
+    transform: translateY(-2px);
+  }
+}
