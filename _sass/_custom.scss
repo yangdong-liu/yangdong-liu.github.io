@@ -501,11 +501,11 @@ html[data-theme="dark"] d-article blockquote {
   }
 
   h2 {
-    font-family: var(--global-font-family);
-    font-size: 1rem;
-    font-weight: 400;
-    color: var(--global-text-color-light);
-    letter-spacing: 0.02em;
+    font-family: var(--global-heading-family);
+    font-size: 1.4rem;
+    font-weight: 500;
+    color: var(--global-text-color);
+    letter-spacing: 0.01em;
   }
 }
 
