@@ -27,27 +27,14 @@ pagination:
 
   {% if site.display_tags or site.display_categories %}
   <div class="tag-category-list">
-    <ul class="p-0 m-0">
+    <div class="tag-chips">
       {% for tag in site.display_tags %}
-        <li>
-          <i class="fas fa-hashtag fa-sm"></i> <a href="{{ tag | slugify | prepend: '/blog/tag/' | relative_url }}">{{ tag }}</a>
-        </li>
-        {% unless forloop.last %}
-          <p>&bull;</p>
-        {% endunless %}
+        <a class="post-chip" href="{{ tag | slugify | prepend: '/blog/tag/' | relative_url }}">#&nbsp;{{ tag }}</a>
       {% endfor %}
-      {% if site.display_categories.size > 0 and site.display_tags.size > 0 %}
-        <p>&bull;</p>
-      {% endif %}
       {% for category in site.display_categories %}
-        <li>
-          <i class="fas fa-tag fa-sm"></i> <a href="{{ category | slugify | prepend: '/blog/category/' | relative_url }}">{{ category }}</a>
-        </li>
-        {% unless forloop.last %}
-          <p>&bull;</p>
-        {% endunless %}
+        <a class="post-chip post-chip-category" href="{{ category | slugify | prepend: '/blog/category/' | relative_url }}">{{ category }}</a>
       {% endfor %}
-    </ul>
+    </div>
   </div>
   {% endif %}
 
@@ -123,34 +110,22 @@ pagination:
           <a class="post-title" href="{{ post.redirect | relative_url }}">{{ post.title }}</a>
         {% endif %}
       </h3>
-      <p>{{ post.description }}</p>
-      <p class="post-meta">
-        {{ read_time }} min read &nbsp; &middot; &nbsp;
-        {{ post.date | date: '%B %-d, %Y' }}
+      <p class="post-description">{{ post.description }}</p>
+      <div class="post-list-meta">
+        <a class="post-date" href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}">{{ post.date | date: '%b %-d, %Y' }}</a>
+        <span class="post-meta-sep">&middot;</span>
+        <span>{{ read_time }} min read</span>
         {%- if post.external_source %}
-        &nbsp; &middot; &nbsp; {{ post.external_source }}
+        <span class="post-meta-sep">&middot;</span>
+        <span>{{ post.external_source }}</span>
         {%- endif %}
-      </p>
-      <p class="post-tags">
-        <a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}">
-          <i class="fas fa-calendar fa-sm"></i> {{ year }} </a>
-
-          {% if tags != "" %}
-          &nbsp; &middot; &nbsp;
-            {% for tag in post.tags %}
-            <a href="{{ tag | slugify | prepend: '/blog/tag/' | prepend: site.baseurl}}">
-              <i class="fas fa-hashtag fa-sm"></i> {{ tag }}</a> &nbsp;
-              {% endfor %}
-          {% endif %}
-
-          {% if categories != "" %}
-          &nbsp; &middot; &nbsp;
-            {% for category in post.categories %}
-            <a href="{{ category | slugify | prepend: '/blog/category/' | prepend: site.baseurl}}">
-              <i class="fas fa-tag fa-sm"></i> {{ category }}</a> &nbsp;
-              {% endfor %}
-          {% endif %}
-    </p>
+        {%- if categories != "" %}
+          {% for category in post.categories %}<a class="post-chip post-chip-category" href="{{ category | slugify | prepend: '/blog/category/' | prepend: site.baseurl}}">{{ category }}</a>{% endfor %}
+        {%- endif %}
+        {%- if tags != "" %}
+          {% for tag in post.tags %}<a class="post-chip" href="{{ tag | slugify | prepend: '/blog/tag/' | prepend: site.baseurl}}">{{ tag }}</a>{% endfor %}
+        {%- endif %}
+      </div>
 {%- if post.thumbnail -%}
     </div>
   <div class="col-sm-3">
